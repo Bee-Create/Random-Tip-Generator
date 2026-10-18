@@ -19,6 +19,12 @@ body {
   line-height: 1.6;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 33px;
+}
+
 button {
   background-color: #F6C453;
   color: #202124;
