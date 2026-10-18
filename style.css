@@ -12,6 +12,13 @@ body {
   text-align: center;
 }
 
+.container .logo {
+  width: 120px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px;
+}
+
 #tip {
   background-color: #34363A;
   padding: 20px;
