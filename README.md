@@ -13,5 +13,5 @@ This coding project creates a generator that displays random tips to help users 
 </UL><br>
 I typed and saved these code files using <a href="https://code.visualstudio.com">Visual Studio Code</a>.<br>
 <h3>Important Information</h3>
-This is a fresh project that I built with Visual Studio Code. Reuse this code for your own project but use a different name / title and image, as these are mine, belonging to WriteCraftPro.com.<br>
+This is a fresh project that I built with Visual Studio Code. Reuse this code for your own project but use a different name / title and image, as these are mine, belonging to <a href="https://writecraftpro.com">WriteCraftPro.com</a>.<br>
 Have fun with it and think of all the different ways to use a generator.
